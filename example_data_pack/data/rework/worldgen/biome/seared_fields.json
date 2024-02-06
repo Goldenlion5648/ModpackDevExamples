@@ -1,0 +1,50 @@
+{
+    "surface_builder": "rework:seared_builder",
+    "depth": 0.3,
+    "scale": 0.25,
+    "temperature": 0.5,
+    "downfall": 0.5,
+    "precipitation": "rain",
+    "category": "plains",
+    "player_spawn_friendly": false,
+    "effects": {
+        "sky_color": 1572953,
+        "fog_color": 1592993,
+        "water_color": 1577637,
+        "water_fog_color": 1577697,
+        "mood_sound": {
+            "sound": "minecraft:ambient.cave",
+            "tick_delay": 6000,
+            "block_search_extent": 8,
+            "offset": 2
+        }
+    },
+    "starts": [],
+    "spawners": {
+        "monster": [],
+        "creature": [],
+        "ambient": [],
+        "water_creature": [],
+        "water_ambient": [],
+        "misc": []
+    },
+    "spawn_costs": {},
+    "carvers": {
+        "air": [
+            "minecraft:cave",
+            "minecraft:canyon"
+        ]
+    },
+    "features": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ]
+}

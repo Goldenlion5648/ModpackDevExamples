@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:swamp",
+    "config": {
+        "top_material": {
+            "Name": "tconstruct:earth_congealed_slime"
+        },
+        "under_material": {
+            "Name": "pickletweaks:cyan_cobblestone"
+        },
+        "underwater_material": {
+            "Name": "tconstruct:grout"
+        }
+    }
+}

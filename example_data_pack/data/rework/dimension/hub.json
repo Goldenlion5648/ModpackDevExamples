@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "biome": "rework:hub_biome",
+            "features": false,
+            "layers": [
+                {
+                    "block": "minecraft:bedrock",
+                    "height": 3
+                },
+                {
+                    "block": "minecraft:white_concrete",
+                    "height": 96
+                }
+            ],
+            "structures": {
+                "structures": {}
+            }
+        }
+    }
+}
